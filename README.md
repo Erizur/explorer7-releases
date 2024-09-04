@@ -1,5 +1,6 @@
-# Releases repo for explorer7
-Releases for explorer7 go here.
+# explorer7 - ex7forw8, modernized
+
+This is the official github for explorer7 releases.\
 DO NOT USE THIS REPO TO REPORT ISSUES. (you can't either way)
 
 ## Registry keys
