@@ -3,6 +3,8 @@
 This is the official github for explorer7 releases.\
 DO NOT USE THIS REPO TO REPORT ISSUES. (you can't either way)
 
+Discord Server: https://discord.gg/d3yVmW4xgr
+
 ## Registry keys
 
 These keys are located under `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced`.
