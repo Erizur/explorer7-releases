@@ -1,7 +1,9 @@
 # explorer7 - ex7forw8, modernized
 
 This is the official github for explorer7 releases.\
-DO NOT USE THIS REPO TO REPORT ISSUES. (you can't either way)
+DO NOT USE THIS REPO TO REPORT ISSUES. (you can't either way)\
+
+READ THE WINCLASSIC POST IF YOU CAME HERE FROM AN EXTERNAL LINK: https://winclassic.net/thread/2588/explorer7-windows-explorer-10-11
 
 Discord Server: https://discord.gg/d3yVmW4xgr
 
