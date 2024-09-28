@@ -3,7 +3,7 @@
 READ THE WINCLASSIC POST IF YOU CAME HERE FROM AN EXTERNAL LINK: https://winclassic.net/thread/2588/explorer7-windows-explorer-10-11
 
 This is the official github for explorer7 releases.\
-DO NOT USE THIS REPO TO REPORT ISSUES. (you can't either way)\
+DO NOT USE THIS REPO TO REPORT ISSUES. (you can't either way)
 
 Discord Server: https://discord.gg/d3yVmW4xgr
 
